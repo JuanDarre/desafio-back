@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos\\Desktop\\Nueva carpeta\\Desafio\\BE-CRUDClientes\\BE-CRUDClientes\\BE-CRUDClientes.csproj": {}
+    "C:\\Users\\bysteka ratateka\\Desktop\\DesafioB\\desafio-back\\BE-CRUDClientes\\BE-CRUDClientes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos\\Desktop\\Nueva carpeta\\Desafio\\BE-CRUDClientes\\BE-CRUDClientes\\BE-CRUDClientes.csproj": {
+    "C:\\Users\\bysteka ratateka\\Desktop\\DesafioB\\desafio-back\\BE-CRUDClientes\\BE-CRUDClientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\Nueva carpeta\\Desafio\\BE-CRUDClientes\\BE-CRUDClientes\\BE-CRUDClientes.csproj",
+        "projectUniqueName": "C:\\Users\\bysteka ratateka\\Desktop\\DesafioB\\desafio-back\\BE-CRUDClientes\\BE-CRUDClientes.csproj",
         "projectName": "BE-CRUDClientes",
-        "projectPath": "C:\\Users\\Carlos\\Desktop\\Nueva carpeta\\Desafio\\BE-CRUDClientes\\BE-CRUDClientes\\BE-CRUDClientes.csproj",
-        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos\\Desktop\\Nueva carpeta\\Desafio\\BE-CRUDClientes\\BE-CRUDClientes\\obj\\",
+        "projectPath": "C:\\Users\\bysteka ratateka\\Desktop\\DesafioB\\desafio-back\\BE-CRUDClientes\\BE-CRUDClientes.csproj",
+        "packagesPath": "C:\\Users\\bysteka ratateka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bysteka ratateka\\Desktop\\DesafioB\\desafio-back\\BE-CRUDClientes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bysteka ratateka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,60 +34,22 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
